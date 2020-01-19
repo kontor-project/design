@@ -1,0 +1,26 @@
+...Comp Geom...
+5 Num Comps
+8 Total Num Meshes
+10736 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+  100.205     92.237     67.105     65.099  FuselageBase   
+   59.542     38.391     12.887      8.757  TailFuselage   
+    4.309      1.242      0.484      0.147  MotorFuselage  
+    2.600      2.600      0.048      0.048  Prop           
+    2.600      2.600      0.048      0.048  Prop           
+    2.600      2.600      0.048      0.048  Prop           
+   82.764     77.250      6.665      6.556  WingGeom       
+   82.764     77.250      6.665      6.556  WingGeom       
+-------------------------------------------------
+  337.385    294.168     93.949     87.259  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+      100.205         92.237    FuselageBase_Surf0
+       59.542         38.391    TailFuselage_Surf0
+        4.309          1.242    MotorFuselage_Surf0
+        2.600          2.600    Prop_Surf0     
+        2.600          2.600    Prop_Surf1     
+        2.600          2.600    Prop_Surf2     
+       82.764         77.250    WingGeom_Surf0 
+       82.764         77.250    WingGeom_Surf1 
